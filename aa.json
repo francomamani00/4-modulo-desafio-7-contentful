@@ -1,0 +1,281 @@
+{
+    "sys": {
+      "type": "Array"
+    },
+    "total": 3,
+    "skip": 0,
+    "limit": 100,
+    "items": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hzma5z61vjs4"
+            }
+          },
+          "id": "564Wx2DkEKGn1Up07kEvlf",
+          "type": "Entry",
+          "createdAt": "2022-01-27T23:38:28.363Z",
+          "updatedAt": "2022-01-29T23:13:47.005Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "work"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "titulo": "Desafio Fetch del modulo 3",
+          "imagen": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "49qfv5mNbOd5Y2LB0KCvZC"
+            }
+          },
+          "descripcion": "Este es un desafio que hicimos trabajando con fetch que devuelve promesas",
+          "url": "https://github.com/francomamani00/desafio-fetch-modulo-4"
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hzma5z61vjs4"
+            }
+          },
+          "id": "3KNvMIVGfVv2Us8vMvMYPc",
+          "type": "Entry",
+          "createdAt": "2022-01-27T23:39:02.479Z",
+          "updatedAt": "2022-01-29T23:11:53.680Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "work"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "titulo": "Desafio Modulo 3",
+          "imagen": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "7easnkmsmu1cYQvnq77wO8"
+            }
+          },
+          "descripcion": "En este desafio hicimos una pagina web personal responsive con un formulario",
+          "url": "https://github.com/francomamani00/desafio-modulo-3-terminado"
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hzma5z61vjs4"
+            }
+          },
+          "id": "AHg6S0qmBUgCYYq4KQu7i",
+          "type": "Entry",
+          "createdAt": "2022-01-27T23:39:20.860Z",
+          "updatedAt": "2022-01-29T23:10:38.985Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "work"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "titulo": "Desafio Modulo 2",
+          "imagen": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "6ThCkqibBrxqdyw3hJXk3A"
+            }
+          },
+          "descripcion": "Este es el desafio del modulo numero dos donde nos hicimos un buscador y filtrador de peliculas que previamente ya existen en un json",
+          "url": "https://github.com/francomamani00/dwf-m2-desafio"
+        }
+      }
+    ],
+    "includes": {
+      "Asset": [
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hzma5z61vjs4"
+              }
+            },
+            "id": "49qfv5mNbOd5Y2LB0KCvZC",
+            "type": "Asset",
+            "createdAt": "2022-01-29T23:13:36.394Z",
+            "updatedAt": "2022-01-29T23:13:36.394Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "300",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/hzma5z61vjs4/49qfv5mNbOd5Y2LB0KCvZC/fb5b0ae7c3f067810e731f203b54914c/300.jpg",
+              "details": {
+                "size": 79175,
+                "image": {
+                  "width": 640,
+                  "height": 480
+                }
+              },
+              "fileName": "300",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hzma5z61vjs4"
+              }
+            },
+            "id": "6ThCkqibBrxqdyw3hJXk3A",
+            "type": "Asset",
+            "createdAt": "2022-01-29T23:08:42.050Z",
+            "updatedAt": "2022-01-29T23:08:42.050Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Spatherbstmorgen",
+            "description": "lorem picsum",
+            "file": {
+              "url": "//images.ctfassets.net/hzma5z61vjs4/6ThCkqibBrxqdyw3hJXk3A/0eacd7d240fcea6f0bda94a82e766019/300.jpg",
+              "details": {
+                "size": 92238,
+                "image": {
+                  "width": 640,
+                  "height": 358
+                }
+              },
+              "fileName": "Spatherbstmorgen",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hzma5z61vjs4"
+              }
+            },
+            "id": "7easnkmsmu1cYQvnq77wO8",
+            "type": "Asset",
+            "createdAt": "2022-01-27T23:36:20.642Z",
+            "updatedAt": "2022-01-27T23:36:20.642Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "picsum",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/hzma5z61vjs4/7easnkmsmu1cYQvnq77wO8/5fd681b721c3b5b933a9471fdf349216/237-200x300.jpg",
+              "details": {
+                "size": 11531,
+                "image": {
+                  "width": 200,
+                  "height": 300
+                }
+              },
+              "fileName": "237-200x300.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ]
+    }
+  }

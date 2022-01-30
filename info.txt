@@ -1,0 +1,13 @@
+sería muy incómodo y difícil hacer cambios en el código cada vez que necesitemos crear, organizar, publicar o eliminar contenidos. Por eso, para estas acciones vamos a utilizar un Content Management System (CMS).
+USAMOS CONTENFUL
+herramienta que se ofrece como un servicio que no se instala
+
+Un CMS es un programa que nos permite crear un entorno de trabajo para la creación y administración de contenidos
+lxs administradorxs, editorxs, participantes y demás usuarixs podrán hacer cambios en un sitio web sin la necesidad de modificar el código
+Estos sistemas de gestión nos brindan una interfaz sencilla y accesible desde la que se puede hacer cambios en el contenido de una página web
+amos a usar Contenful como gestor de contenidos
+
+
+https://cdn.contentful.com/spaces/{space_id}/environments/{environment_id}/entries/{entry_id}?access_token={access_token}
+
+minuto 30 muestra
